@@ -37,4 +37,3 @@ with DAG(
     )
 
     pipeline >> predict
-    # <YOUR_CODE>
